@@ -1,4 +1,12 @@
 
+/**
+  * Author: Andrijan Ostrun
+  *         2018.
+  * Missionaries and cannibals problem
+  * Centralized mutual exclusion algorithm
+  *  using POSIX message queues.
+  */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
